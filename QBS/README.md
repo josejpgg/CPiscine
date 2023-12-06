@@ -5,4 +5,4 @@ make all
 make clean
 
 # Test
-./qbs [map01] [map02] [map03]
+./bsq [map01] [map02] [map03]
