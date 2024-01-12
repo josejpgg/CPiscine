@@ -1,2 +1,5 @@
 # CPiscine
-The most difficult projects in this amazing experience.
+All my experience
+
+## Compiler
+cc -Wall -Werror -Wextra *.c
